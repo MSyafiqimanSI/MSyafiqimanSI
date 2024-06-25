@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 😎 Hello I'm Syafiq
+- 😎 Hello, I'm Syafiq
 - 👨‍🏫 Interested in Machine Learning and AI
 - 🎓 Bachelor Degree in Mechatronics Engineering
 - 🌱 I’m currently learning in Machine Learning 
